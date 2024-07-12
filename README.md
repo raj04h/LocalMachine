@@ -1,7 +1,4 @@
 # LocalMachine
-Just describe
-
-
 Hey Coders,
     This file give you better understanding to start with Data structure and algorithm..
 
